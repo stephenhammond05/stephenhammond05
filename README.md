@@ -13,7 +13,7 @@ Growing up , and I am now eager to transition into this field, specifically aimi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| System Administration                         | <a href="https://github.com/stephenhammond05/Purple-Team/blob/main/README.md">System Administration Lab</a>|
+| System Administration                         | <a href="https://github.com/stephenhammond05/System_Administration/blob/main/README.md">System Administration Lab</a>|
 | Penetration Testing and intrusion detection   | <a href="https://google.com">Purple Team Lab</a>|
 
 ## Tools
