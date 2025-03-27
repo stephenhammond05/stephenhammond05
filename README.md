@@ -26,8 +26,16 @@ Growing up , and I am now eager to transition into this field, specifically aimi
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### OFFENSIVE TOOLS
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-5F4BB6?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004672?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF7139?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-333333?&style=for-the-badge&logo=GNU&logoColor=white" />
+    <img src="https://img.shields.io/badge/-John_the_Ripper-AA0000?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
 </div>
 
 ## Certifications
