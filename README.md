@@ -38,6 +38,20 @@ Growing up , and I am now eager to transition into this field, specifically aimi
     <img src="https://img.shields.io/badge/-John_the_Ripper-AA0000?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
 </div>
 
+### SYSTEM
+<div>
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+</div>
+
+### SCRIPTING
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Command_Line-000000?&style=for-the-badge&logo=Windows%20Terminal&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
