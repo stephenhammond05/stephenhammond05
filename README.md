@@ -61,12 +61,7 @@ Growing up I was always passionate about computers and networking, and I am now 
 ## Projects
 - Systems Administrator Lab
 - Purple Team Lab
-
-<!--
-**stephenhammond05/stephenhammond05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- Career Sim 3
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
