@@ -15,7 +15,7 @@ Growing up I was always passionate about computers and networking, and I am now 
 |-----------------------------------------------|----------------------------|
 | System Administration                         | <a href="https://github.com/stephenhammond05/System_Administration/blob/main/README.md">System Administration Lab</a>|
 | Penetration Testing and intrusion detection   | <a href="https://github.com/stephenhammond05/Purple-Team">Purple Team Lab</a>|
-| Red Team Tactics                              | <a href="https://github.com/stephenhammond05/RedTeam">Multi-Host Compramise</a>|
+| Red Team Tactics                              | <a href="https://github.com/stephenhammond05/RedTeam">Multi-Host Compromise</a>|
 
 ## Tools
 
